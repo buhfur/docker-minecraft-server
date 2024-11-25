@@ -1,0 +1,13 @@
+
+[Unit]
+Description=Service which performs a backup of the minecraft server and writes it to the shared drive
+
+[Service]
+Type=simple
+WorkingDirectory=/root/docker-minecraft-server/minecraft-server
+ExecStart=/bin/bash /root/docker-minecraft-server/minecraft-server/backup.sh
+
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,36 @@
+[09:01:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:01:19] [ServerMain/INFO]: Loaded 1337 recipes
+[09:01:19] [ServerMain/INFO]: Loaded 1448 advancements
+[09:01:19] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[09:01:19] [Server thread/INFO]: Loading properties
+[09:01:19] [Server thread/INFO]: Default game type: SURVIVAL
+[09:01:19] [Server thread/INFO]: Generating keypair
+[09:01:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:01:19] [Server thread/INFO]: Using epoll channel type
+[09:01:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:01:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:01:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:01:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:01:19] [Server thread/INFO]: Preparing level "world"
+[09:01:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:01:26] [Server thread/INFO]: Time elapsed: 6569 ms
+[09:01:26] [Server thread/INFO]: Done (6.812s)! For help, type "help"
+[09:01:26] [Server thread/INFO]: Starting remote control listener
+[09:01:26] [Server thread/INFO]: Thread RCON Listener started
+[09:01:26] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[09:02:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:57:48] [Server thread/WARN]: handleDisconnection() called twice
