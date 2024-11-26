@@ -1,0 +1,10 @@
+
+[Unit]
+Description=Timer for backup-minecraft-server service 
+[Timer]
+OnCalendar=06:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+
